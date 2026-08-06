@@ -1,4 +1,4 @@
-## version $VER: SysMon.catalog 1.2 (13.12.2020)
+## version $VER: SysMon.catalog 1.2 (06.08.2026)
 ## language russian
 ## codeset 2104
 ;
@@ -30,13 +30,13 @@ MSG_SIMULATED_CPU
 Задачи
 ;
 MSG_PROCESS
-Процессор #%id: %s
+Процесс
 ;
 MSG_TASK
 Переведи_1
 ;
 MSG_PROCESSOR
-Процессоры
+Процессор #%id: %s
 ;
 MSG_TASK_NAME
 Задача
@@ -51,10 +51,10 @@ MSG_TASK_READY_WAIT_INIT
 Приоритет
 ;
 MSG_TASK_READY_WAIT
-Тип
+%ld готовы, %ld ожидают
 ;
 MSG_TAB_SYSTEM
-%ld готовы, %ld ожидают
+Система
 ;
 MSG_MEMORY_SIZE
 Система
@@ -81,8 +81,60 @@ MSG_VIDEO_RAM
 Fast
 ;
 MSG_VIDEO_WINDOW_TMPL
-Всего
+Окно %s
 ;
 MSG_CANT_OPEN_TASK_RESOURCE
 Таблица GART
+;
+MSG_PROJECT
+Проект
+; Project
+;
+MSG_REFRESH_SPEED
+Скорость обновления
+; Refresh Speed
+;
+MSG_FAST
+Быстрое
+; Fast
+;
+MSG_NORMAL
+Обычный
+; Normal
+;
+MSG_SLOW
+медленный
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<завершена>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<неизвестно>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+видеорежим
+; Display Mode
+;
+MSG_LOAD
+Загрузка процессора
+; Processor Load
+;
+MSG_GUAGE
+Индикатор
+; Gauge
+;
+MSG_GRAPH
+График
+; Graph
+;
+MSG_GRAPH_PER_PROC
+График по процессорам
+; Graph Per Processor
 ;
