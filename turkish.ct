@@ -1,0 +1,164 @@
+## version $VER: SysMon.catalog 1.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_APP_NAME
+SysMon
+; SysMon
+;
+MSG_APP_TITLE
+Sistem Ýzleyici
+; System Monitor
+;
+MSG_WINDOW_TITLE
+Sistem Ýzleyici
+; System Monitor
+;
+MSG_USAGE
+Kullaným
+; Usage
+;
+MSG_FREQUENCY
+Frekans
+; Frequency
+;
+MSG_TAB_TASKS
+Görevler
+; Tasks
+;
+MSG_TAB_CPU
+Ýþlemciler
+; Processors
+;
+MSG_SIMULATED_CPU
+Benzetilmiþ AROS iþlemcisi
+; Simulated AROS processor
+;
+MSG_PROCESSOR
+Ýþlemci #%id: %s
+; Processor #%id: %s
+;
+MSG_TASK
+Görev
+; Task
+;
+MSG_PROCESS
+Ýþlem
+; Process
+;
+MSG_TASK_NAME
+Adý
+; Name
+;
+MSG_TASK_PRIORITY
+Öncelik
+; Priority
+;
+MSG_TASK_TYPE
+Tür
+; Type
+;
+MSG_TASK_READY_WAIT_INIT
+- hazýr, - bekliyor
+; - ready, - waiting
+;
+MSG_TASK_READY_WAIT
+%ld hazýr, %ld bekliyor
+; %ld ready, %ld waiting
+;
+MSG_TAB_SYSTEM
+Sistem
+; System
+;
+MSG_MEMORY_SIZE
+Bellek Boyutu
+; Memory Size
+;
+MSG_MEMORY_FREE
+Boþ Bellek
+; Memory Free
+;
+MSG_VIDEO_SIZE
+Video Boyutu
+; Video Size
+;
+MSG_VIDEO_FREE
+Boþ Video
+; Video Free
+;
+MSG_TOTAL_RAM
+Toplam Bellek
+; Total Memory
+;
+MSG_CHIP_RAM
+Chip Bellek
+; Chip Memory
+;
+MSG_FAST_RAM
+Fast Bellek
+; Fast Memory
+;
+MSG_VIDEO_RAM
+Video Belleði
+; Video Memory
+;
+MSG_VIDEO_WINDOW_TMPL
+%s Penceresi
+; %s Window
+;
+MSG_CANT_OPEN_TASK_RESOURCE
+task.resource açýlamýyor\n
+; Can't open task.resource\n
+;
+MSG_PROJECT
+Proje
+; Project
+;
+MSG_REFRESH_SPEED
+Tazeleme Hýzý
+; Refresh Speed
+;
+MSG_FAST
+Hýzlý
+; Fast
+;
+MSG_NORMAL
+Normal
+; Normal
+;
+MSG_SLOW
+Yavaþ
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<mezar taþý>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<bilinmiyor>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+Görüntü Modu
+; Display Mode
+;
+MSG_LOAD
+Ýþlemci Yükü
+; Processor Load
+;
+MSG_GUAGE
+Gösterge
+; Gauge
+;
+MSG_GRAPH
+Grafik
+; Graph
+;
+MSG_GRAPH_PER_PROC
+Ýþlemci Baþýna Grafik
+; Graph Per Processor
+;

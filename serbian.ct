@@ -1,0 +1,164 @@
+## version $VER: SysMon.catalog 1.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_APP_NAME
+SysMon
+; SysMon
+;
+MSG_APP_TITLE
+Sistemski monitor
+; System Monitor
+;
+MSG_WINDOW_TITLE
+Sistemski monitor
+; System Monitor
+;
+MSG_USAGE
+Iskoriç†enost
+; Usage
+;
+MSG_FREQUENCY
+Frekvencija
+; Frequency
+;
+MSG_TAB_TASKS
+Zadaci
+; Tasks
+;
+MSG_TAB_CPU
+Procesori
+; Processors
+;
+MSG_SIMULATED_CPU
+Simulirani AROS procesor
+; Simulated AROS processor
+;
+MSG_PROCESSOR
+Procesor #%id: %s
+; Processor #%id: %s
+;
+MSG_TASK
+Zadatak
+; Task
+;
+MSG_PROCESS
+Proces
+; Process
+;
+MSG_TASK_NAME
+Ime
+; Name
+;
+MSG_TASK_PRIORITY
+Prioritet
+; Priority
+;
+MSG_TASK_TYPE
+Tip
+; Type
+;
+MSG_TASK_READY_WAIT_INIT
+- spremno, - Ÿeka
+; - ready, - waiting
+;
+MSG_TASK_READY_WAIT
+%ld spremno, %ld Ÿeka
+; %ld ready, %ld waiting
+;
+MSG_TAB_SYSTEM
+Sistem
+; System
+;
+MSG_MEMORY_SIZE
+VeliŸina memorije
+; Memory Size
+;
+MSG_MEMORY_FREE
+Slobodna memorija
+; Memory Free
+;
+MSG_VIDEO_SIZE
+VeliŸina video memorije
+; Video Size
+;
+MSG_VIDEO_FREE
+Slobodna video memorija
+; Video Free
+;
+MSG_TOTAL_RAM
+Ukupna memorija
+; Total Memory
+;
+MSG_CHIP_RAM
+Chip memorija
+; Chip Memory
+;
+MSG_FAST_RAM
+Fast memorija
+; Fast Memory
+;
+MSG_VIDEO_RAM
+Video memorija
+; Video Memory
+;
+MSG_VIDEO_WINDOW_TMPL
+%s prozor
+; %s Window
+;
+MSG_CANT_OPEN_TASK_RESOURCE
+Ne mogu da otvorim task.resource\n
+; Can't open task.resource\n
+;
+MSG_PROJECT
+Projekat
+; Project
+;
+MSG_REFRESH_SPEED
+Brzina osve§avanja
+; Refresh Speed
+;
+MSG_FAST
+Brz
+; Fast
+;
+MSG_NORMAL
+Normalno
+; Normal
+;
+MSG_SLOW
+Sporo
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<tombstone>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<nepoznato>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+Mod prikaza
+; Display Mode
+;
+MSG_LOAD
+Optere†enje procesora
+; Processor Load
+;
+MSG_GUAGE
+MeraŸ
+; Gauge
+;
+MSG_GRAPH
+Grafik
+; Graph
+;
+MSG_GRAPH_PER_PROC
+Grafik po procesoru
+; Graph Per Processor
+;

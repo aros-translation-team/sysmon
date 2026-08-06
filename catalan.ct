@@ -1,0 +1,164 @@
+## version $VER: SysMon.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_APP_NAME
+SysMon
+; SysMon
+;
+MSG_APP_TITLE
+Monitor del sistema
+; System Monitor
+;
+MSG_WINDOW_TITLE
+Monitor del sistema
+; System Monitor
+;
+MSG_USAGE
+Ús
+; Usage
+;
+MSG_FREQUENCY
+Freqüència
+; Frequency
+;
+MSG_TAB_TASKS
+Tasques
+; Tasks
+;
+MSG_TAB_CPU
+Processadors
+; Processors
+;
+MSG_SIMULATED_CPU
+Processador AROS simulat
+; Simulated AROS processor
+;
+MSG_PROCESSOR
+Processador #%id: %s
+; Processor #%id: %s
+;
+MSG_TASK
+Tasca
+; Task
+;
+MSG_PROCESS
+Procés
+; Process
+;
+MSG_TASK_NAME
+Nom
+; Name
+;
+MSG_TASK_PRIORITY
+Prioritat
+; Priority
+;
+MSG_TASK_TYPE
+Tipus
+; Type
+;
+MSG_TASK_READY_WAIT_INIT
+- preparades, - en espera
+; - ready, - waiting
+;
+MSG_TASK_READY_WAIT
+%ld preparades, %ld en espera
+; %ld ready, %ld waiting
+;
+MSG_TAB_SYSTEM
+Sistema
+; System
+;
+MSG_MEMORY_SIZE
+Mida de la memòria
+; Memory Size
+;
+MSG_MEMORY_FREE
+Memòria lliure
+; Memory Free
+;
+MSG_VIDEO_SIZE
+Mida de vídeo
+; Video Size
+;
+MSG_VIDEO_FREE
+Vídeo lliure
+; Video Free
+;
+MSG_TOTAL_RAM
+Memòria total
+; Total Memory
+;
+MSG_CHIP_RAM
+Memòria Chip
+; Chip Memory
+;
+MSG_FAST_RAM
+Memòria Fast
+; Fast Memory
+;
+MSG_VIDEO_RAM
+Memòria de vídeo
+; Video Memory
+;
+MSG_VIDEO_WINDOW_TMPL
+Finestra %s
+; %s Window
+;
+MSG_CANT_OPEN_TASK_RESOURCE
+No es pot obrir task.resource\n
+; Can't open task.resource\n
+;
+MSG_PROJECT
+Projecte
+; Project
+;
+MSG_REFRESH_SPEED
+Velocitat de refresc
+; Refresh Speed
+;
+MSG_FAST
+Ràpid
+; Fast
+;
+MSG_NORMAL
+Normal
+; Normal
+;
+MSG_SLOW
+Lenta
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<tombstone>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<desconegut>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+Mode de pantalla
+; Display Mode
+;
+MSG_LOAD
+Càrrega del processador
+; Processor Load
+;
+MSG_GUAGE
+Indicador
+; Gauge
+;
+MSG_GRAPH
+Gràfic
+; Graph
+;
+MSG_GRAPH_PER_PROC
+Gràfic per processador
+; Graph Per Processor
+;

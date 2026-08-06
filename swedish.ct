@@ -1,0 +1,164 @@
+## version $VER: SysMon.catalog 1.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_APP_NAME
+SysMon
+; SysMon
+;
+MSG_APP_TITLE
+Systemövervakare
+; System Monitor
+;
+MSG_WINDOW_TITLE
+Systemövervakare
+; System Monitor
+;
+MSG_USAGE
+Användning
+; Usage
+;
+MSG_FREQUENCY
+Frekvens
+; Frequency
+;
+MSG_TAB_TASKS
+Aktiviteter
+; Tasks
+;
+MSG_TAB_CPU
+Processorer
+; Processors
+;
+MSG_SIMULATED_CPU
+Simulerad AROS-processor
+; Simulated AROS processor
+;
+MSG_PROCESSOR
+Processor #%id: %s
+; Processor #%id: %s
+;
+MSG_TASK
+Aktivitet
+; Task
+;
+MSG_PROCESS
+Process
+; Process
+;
+MSG_TASK_NAME
+Namn
+; Name
+;
+MSG_TASK_PRIORITY
+Prioritet
+; Priority
+;
+MSG_TASK_TYPE
+Typ
+; Type
+;
+MSG_TASK_READY_WAIT_INIT
+- redo, - väntande
+; - ready, - waiting
+;
+MSG_TASK_READY_WAIT
+%ld redo, %ld väntande
+; %ld ready, %ld waiting
+;
+MSG_TAB_SYSTEM
+System
+; System
+;
+MSG_MEMORY_SIZE
+Minnesstorlek
+; Memory Size
+;
+MSG_MEMORY_FREE
+Ledigt minne
+; Memory Free
+;
+MSG_VIDEO_SIZE
+Videominnets storlek
+; Video Size
+;
+MSG_VIDEO_FREE
+Ledigt videominne
+; Video Free
+;
+MSG_TOTAL_RAM
+Totalt minne
+; Total Memory
+;
+MSG_CHIP_RAM
+Chip-minne
+; Chip Memory
+;
+MSG_FAST_RAM
+Fast-minne
+; Fast Memory
+;
+MSG_VIDEO_RAM
+Videominne
+; Video Memory
+;
+MSG_VIDEO_WINDOW_TMPL
+%s-fönster
+; %s Window
+;
+MSG_CANT_OPEN_TASK_RESOURCE
+Kan inte öppna task.resource\n
+; Can't open task.resource\n
+;
+MSG_PROJECT
+Projekt
+; Project
+;
+MSG_REFRESH_SPEED
+Uppdateringshastighet
+; Refresh Speed
+;
+MSG_FAST
+Snabbt
+; Fast
+;
+MSG_NORMAL
+Normal
+; Normal
+;
+MSG_SLOW
+Långsam
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<tombstone>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<okänd>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+Skärmläge
+; Display Mode
+;
+MSG_LOAD
+Processorbelastning
+; Processor Load
+;
+MSG_GUAGE
+Mätare
+; Gauge
+;
+MSG_GRAPH
+Graf
+; Graph
+;
+MSG_GRAPH_PER_PROC
+Graf per processor
+; Graph Per Processor
+;

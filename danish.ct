@@ -1,0 +1,164 @@
+## version $VER: SysMon.catalog 1.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_APP_NAME
+SysMon
+; SysMon
+;
+MSG_APP_TITLE
+Systemovervågning
+; System Monitor
+;
+MSG_WINDOW_TITLE
+Systemovervågning
+; System Monitor
+;
+MSG_USAGE
+Forbrug
+; Usage
+;
+MSG_FREQUENCY
+Frekvens
+; Frequency
+;
+MSG_TAB_TASKS
+Opgaver
+; Tasks
+;
+MSG_TAB_CPU
+Processorer
+; Processors
+;
+MSG_SIMULATED_CPU
+Simuleret AROS-processor
+; Simulated AROS processor
+;
+MSG_PROCESSOR
+Processor #%id: %s
+; Processor #%id: %s
+;
+MSG_TASK
+Opgave
+; Task
+;
+MSG_PROCESS
+Proces
+; Process
+;
+MSG_TASK_NAME
+Navn
+; Name
+;
+MSG_TASK_PRIORITY
+Prioritet
+; Priority
+;
+MSG_TASK_TYPE
+Type
+; Type
+;
+MSG_TASK_READY_WAIT_INIT
+- klar, - venter
+; - ready, - waiting
+;
+MSG_TASK_READY_WAIT
+%ld klar, %ld venter
+; %ld ready, %ld waiting
+;
+MSG_TAB_SYSTEM
+System
+; System
+;
+MSG_MEMORY_SIZE
+Hukommelsesstørrelse
+; Memory Size
+;
+MSG_MEMORY_FREE
+Ledig hukommelse
+; Memory Free
+;
+MSG_VIDEO_SIZE
+Videostørrelse
+; Video Size
+;
+MSG_VIDEO_FREE
+Ledig video
+; Video Free
+;
+MSG_TOTAL_RAM
+Samlet hukommelse
+; Total Memory
+;
+MSG_CHIP_RAM
+Chip-hukommelse
+; Chip Memory
+;
+MSG_FAST_RAM
+Fast-hukommelse
+; Fast Memory
+;
+MSG_VIDEO_RAM
+Videohukommelse
+; Video Memory
+;
+MSG_VIDEO_WINDOW_TMPL
+%s-vindue
+; %s Window
+;
+MSG_CANT_OPEN_TASK_RESOURCE
+Kan ikke åbne task.resource\n
+; Can't open task.resource\n
+;
+MSG_PROJECT
+Projekt
+; Project
+;
+MSG_REFRESH_SPEED
+Opdateringshastighed
+; Refresh Speed
+;
+MSG_FAST
+Hurtig
+; Fast
+;
+MSG_NORMAL
+Normal
+; Normal
+;
+MSG_SLOW
+Langsom
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<tombstone>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<ukendt>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+Skærmtilstand
+; Display Mode
+;
+MSG_LOAD
+Processorbelastning
+; Processor Load
+;
+MSG_GUAGE
+Måler
+; Gauge
+;
+MSG_GRAPH
+Graf
+; Graph
+;
+MSG_GRAPH_PER_PROC
+Graf pr. processor
+; Graph Per Processor
+;

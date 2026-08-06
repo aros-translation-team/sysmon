@@ -1,0 +1,164 @@
+## version $VER: SysMon.catalog 1.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_APP_NAME
+SysMon
+; SysMon
+;
+MSG_APP_TITLE
+Järjestelmävalvonta
+; System Monitor
+;
+MSG_WINDOW_TITLE
+Järjestelmävalvonta
+; System Monitor
+;
+MSG_USAGE
+Käyttö
+; Usage
+;
+MSG_FREQUENCY
+Taajuus
+; Frequency
+;
+MSG_TAB_TASKS
+Tehtävät
+; Tasks
+;
+MSG_TAB_CPU
+Suorittimet
+; Processors
+;
+MSG_SIMULATED_CPU
+Simuloitu AROS-suoritin
+; Simulated AROS processor
+;
+MSG_PROCESSOR
+Suoritin #%id: %s
+; Processor #%id: %s
+;
+MSG_TASK
+Tehtävä
+; Task
+;
+MSG_PROCESS
+Prosessi
+; Process
+;
+MSG_TASK_NAME
+Nimi
+; Name
+;
+MSG_TASK_PRIORITY
+Prioriteetti
+; Priority
+;
+MSG_TASK_TYPE
+Tyyppi
+; Type
+;
+MSG_TASK_READY_WAIT_INIT
+- valmiina, - odottaa
+; - ready, - waiting
+;
+MSG_TASK_READY_WAIT
+%ld valmiina, %ld odottaa
+; %ld ready, %ld waiting
+;
+MSG_TAB_SYSTEM
+Järjestelmä
+; System
+;
+MSG_MEMORY_SIZE
+Muistin koko
+; Memory Size
+;
+MSG_MEMORY_FREE
+Vapaa muisti
+; Memory Free
+;
+MSG_VIDEO_SIZE
+Näyttömuistin koko
+; Video Size
+;
+MSG_VIDEO_FREE
+Vapaa näyttömuisti
+; Video Free
+;
+MSG_TOTAL_RAM
+Muistia yhteensä
+; Total Memory
+;
+MSG_CHIP_RAM
+Chip-muisti
+; Chip Memory
+;
+MSG_FAST_RAM
+Fast-muisti
+; Fast Memory
+;
+MSG_VIDEO_RAM
+Näyttömuisti
+; Video Memory
+;
+MSG_VIDEO_WINDOW_TMPL
+%s-ikkuna
+; %s Window
+;
+MSG_CANT_OPEN_TASK_RESOURCE
+task.resourcea ei voitu avata\n
+; Can't open task.resource\n
+;
+MSG_PROJECT
+Projekti
+; Project
+;
+MSG_REFRESH_SPEED
+Päivitysnopeus
+; Refresh Speed
+;
+MSG_FAST
+Nopea
+; Fast
+;
+MSG_NORMAL
+Normaali
+; Normal
+;
+MSG_SLOW
+Hidas
+; Slow
+;
+MSG_TASK_TOMBSTONE
+<tombstone>
+; <tombstone>
+;
+MSG_TASK_UNKNOWN
+<tuntematon>
+; <unknown>
+;
+MSG_WINDOW_GART
+GART
+; GART
+;
+MSG_DISPLAY_MODE
+Näyttötila
+; Display Mode
+;
+MSG_LOAD
+Suorittimen kuormitus
+; Processor Load
+;
+MSG_GUAGE
+Mittari
+; Gauge
+;
+MSG_GRAPH
+Kuvaaja
+; Graph
+;
+MSG_GRAPH_PER_PROC
+Kuvaaja suorittimittain
+; Graph Per Processor
+;
